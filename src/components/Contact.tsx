@@ -26,7 +26,7 @@ export function Contact() {
             target="_blank"
             className="hover:text-yellow-400"
           >
-            github.com/your-github
+            ThunyathepPNA
           </a>
         </div>
         <div className="flex items-center gap-3">
