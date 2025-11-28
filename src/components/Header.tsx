@@ -1,4 +1,4 @@
-import { FaGithub, FaLinkedin, FaFacebook } from "react-icons/fa";
+import { FaGithub, FaFacebook } from "react-icons/fa";
 import * as Tooltip from "@radix-ui/react-tooltip";
 
 export function Header() {
